@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 200-02-BattleTurtle
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7f01b0b1916b8ae4b98b3d9731e19db2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -671513009, guid: d5ea2d6077a07ed4c9d1e49b0b51ecb8, type: 3}
+  - {fileID: -1249194531, guid: d5ea2d6077a07ed4c9d1e49b0b51ecb8, type: 3}
+  - {fileID: 21300000, guid: 94cc5ba121d1cbc4ab5eae97fa097caa, type: 3}
+  - {fileID: 21300000, guid: a45400e3aebc4c44b81c2765dee45ea2, type: 3}
+  - {fileID: -557110297, guid: 99f2a70692f09b446a12d15c87d6032a, type: 3}
+  - {fileID: 1846808625, guid: 99f2a70692f09b446a12d15c87d6032a, type: 3}
+  - {fileID: -1587762948, guid: 99f2a70692f09b446a12d15c87d6032a, type: 3}
+  - {fileID: -674946005, guid: 99f2a70692f09b446a12d15c87d6032a, type: 3}
+  - {fileID: -1587305046, guid: 0eeff0872d7336e41858115cc4fa6a6c, type: 3}
+  - {fileID: 890804034, guid: 0eeff0872d7336e41858115cc4fa6a6c, type: 3}
+  - {fileID: 53393973, guid: 0eeff0872d7336e41858115cc4fa6a6c, type: 3}
+  - {fileID: -1296031608, guid: 0eeff0872d7336e41858115cc4fa6a6c, type: 3}
+  - {fileID: 1915501833, guid: f8dabd2894386f14ab247080320c5456, type: 3}
+  - {fileID: -2142812281, guid: f8dabd2894386f14ab247080320c5456, type: 3}
+  - {fileID: -2083458013, guid: f8dabd2894386f14ab247080320c5456, type: 3}
+  - {fileID: 1985251685, guid: f8dabd2894386f14ab247080320c5456, type: 3}
+  - {fileID: 21300000, guid: bc38143964df8fc48a6bb2f0bce44293, type: 3}
+  - {fileID: -1872369082, guid: 05759c3901c55b14db076d85100d4990, type: 3}
+  - {fileID: 1032471467, guid: 05759c3901c55b14db076d85100d4990, type: 3}
+  - {fileID: -1329910274, guid: 05759c3901c55b14db076d85100d4990, type: 3}
+  - {fileID: 941991084, guid: 05759c3901c55b14db076d85100d4990, type: 3}
+  - {fileID: -1531482839, guid: 05759c3901c55b14db076d85100d4990, type: 3}
+  - {fileID: -1516117325, guid: 05759c3901c55b14db076d85100d4990, type: 3}
+  - {fileID: 21300000, guid: 5384d2a93c38d2247ad621b6fe3ed0ad, type: 3}
+  - {fileID: 412212026, guid: db99f5c921a948144a713cfa98d8562d, type: 3}
+  - {fileID: 1848361134, guid: db99f5c921a948144a713cfa98d8562d, type: 3}
+  - {fileID: -535102079, guid: db99f5c921a948144a713cfa98d8562d, type: 3}
+  - {fileID: 1398009555, guid: db99f5c921a948144a713cfa98d8562d, type: 3}
+  - {fileID: -673727973, guid: 182b31ea100a4674bb598489b61c9a69, type: 3}
+  - {fileID: -233811800, guid: 182b31ea100a4674bb598489b61c9a69, type: 3}
+  - {fileID: 2044203270, guid: 182b31ea100a4674bb598489b61c9a69, type: 3}
+  - {fileID: 939861279, guid: 182b31ea100a4674bb598489b61c9a69, type: 3}
+  - {fileID: 21300000, guid: abbe0c3d8e8f6d046851429c570c45dc, type: 3}
+  - {fileID: -1260672164, guid: 07bc06ceb4e4b564fb8e11844b27301d, type: 3}
+  - {fileID: -678263145, guid: 07bc06ceb4e4b564fb8e11844b27301d, type: 3}
+  - {fileID: 916358233, guid: 07bc06ceb4e4b564fb8e11844b27301d, type: 3}
+  - {fileID: 1037692786, guid: 07bc06ceb4e4b564fb8e11844b27301d, type: 3}
+  - {fileID: 1200012503, guid: ba3a67af464daed4c919130074735a43, type: 3}
+  - {fileID: 418905983, guid: ba3a67af464daed4c919130074735a43, type: 3}
+  - {fileID: 1932268948, guid: ba3a67af464daed4c919130074735a43, type: 3}
+  - {fileID: -1459431109, guid: ba3a67af464daed4c919130074735a43, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Battle_turtle_hurt_1
+  - Battle_turtle_hurt_0
+  - Bullet1
+  - Battle_turtle
+  - Battle_turtle_death_0
+  - Battle_turtle_death_1
+  - Battle_turtle_death_2
+  - Battle_turtle_death_3
+  - Battle_turtle_attack2_0
+  - Battle_turtle_attack2_1
+  - Battle_turtle_attack2_2
+  - Battle_turtle_attack2_3
+  - Battle_turtle_attack3_1
+  - Battle_turtle_attack3_0
+  - Battle_turtle_attack3_3
+  - Battle_turtle_attack3_2
+  - Bullet3
+  - Battle_turtle_sneer_5
+  - Battle_turtle_sneer_4
+  - Battle_turtle_sneer_3
+  - Battle_turtle_sneer_2
+  - Battle_turtle_sneer_1
+  - Battle_turtle_sneer_0
+  - Bullet2
+  - Battle_turtle_attack1_3
+  - Battle_turtle_attack1_2
+  - Battle_turtle_attack1_1
+  - Battle_turtle_attack1_0
+  - Battle_turtle_idle_2
+  - Battle_turtle_idle_3
+  - Battle_turtle_idle_0
+  - Battle_turtle_idle_1
+  - Bullet4
+  - Battle_turtle_attack4_2
+  - Battle_turtle_attack4_3
+  - Battle_turtle_attack4_0
+  - Battle_turtle_attack4_1
+  - Battle_turtle_walk_3
+  - Battle_turtle_walk_2
+  - Battle_turtle_walk_1
+  - Battle_turtle_walk_0
+  m_RenderDataMap: {}
+  m_Tag: 200-02-BattleTurtle
+  m_IsVariant: 0

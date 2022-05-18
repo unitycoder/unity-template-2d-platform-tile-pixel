@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 300-Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d67aa578b1a14e0468fd485d1d374995, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a7b4bc32117ad2e4c98477c9c0bf02ba, type: 3}
+  - {fileID: 21300000, guid: 0bf93915315125149b90e608cce67cfa, type: 3}
+  - {fileID: 21300000, guid: d230cb26b54ddd94f977a6981bb14e57, type: 3}
+  - {fileID: 21300000, guid: 492dc207dfc6d4e4daabbbb3629a7eb5, type: 3}
+  - {fileID: 21300000, guid: 3d1fd5e8915577f48b89c45cca04d3d5, type: 3}
+  - {fileID: 21300000, guid: 80e4b209ac66da941b763110bd234bf1, type: 3}
+  - {fileID: 21300000, guid: ed236d29aae6a1e4cb59a7475981931b, type: 3}
+  - {fileID: 21300000, guid: e5863869f9b157749a2cc3826a079ed9, type: 3}
+  - {fileID: 21300000, guid: 2ac7229a886ff8a4a8d07aa4510f1237, type: 3}
+  - {fileID: 21300000, guid: cb6cb72d9eba9094e87c829b3906fdf4, type: 3}
+  - {fileID: 21300000, guid: 89b7eaae22ae9844eb2525201c772b3b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Icon11
+  - Icon6
+  - Icon8
+  - Icon9
+  - Icon7
+  - Icon1
+  - Icon10
+  - Icon2
+  - Icon4
+  - Icon3
+  - Icon5
+  m_RenderDataMap: {}
+  m_Tag: 300-Icons
+  m_IsVariant: 0

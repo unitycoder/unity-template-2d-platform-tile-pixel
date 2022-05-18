@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 200-01-Centipede
+  m_Controller: {fileID: 9100000, guid: 868dd9a6dcfa17a468cb2e983087e339, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: df1622bbe46fc3648a4f95d7d89c741b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: df1622bbe46fc3648a4f95d7d89c741b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 93122cdd7d6efd84296f5f94bfb455b2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 93122cdd7d6efd84296f5f94bfb455b2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 10fe541e89531be46b802f098eff3a19, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f2756df16e350f47829a4956ca07871, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 658dae019a31a214d807e77e7acd62bf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 14c2626dd789c3a42aecdd710f61a2ac, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 13bc25e3330bc1d4a93f79bc94c9f3b7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1896ebeb01646d84eb6d66ea09d4f23e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7b670d8bc2628204d8cb587d7e334b33, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b4da022a8405ed540a51b48898aca328, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 16273db684ca99b4ca03f8d7a73f8b40, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1a29d320b8ded224fbfa360c004ff50a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f21288be7b684fd48aee919221eed7c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 57bf8506031aeeb408ea831bb9d4569c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb980e9f9a75468458aa1af46d9e8cd9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 04b2b9c34b7a2c14196acd320c6a11a6, type: 2}

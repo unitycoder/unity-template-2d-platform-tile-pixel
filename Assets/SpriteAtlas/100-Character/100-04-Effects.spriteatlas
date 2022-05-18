@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 100-04-Effects
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 43a2cc69f2141774ba2f32ba667d9fa6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1623892469, guid: 9d641621ae349e641bc6e3d230ed77f8, type: 3}
+  - {fileID: -64085537, guid: 9d641621ae349e641bc6e3d230ed77f8, type: 3}
+  - {fileID: -90915355, guid: 9d641621ae349e641bc6e3d230ed77f8, type: 3}
+  - {fileID: -2009458877, guid: 9d641621ae349e641bc6e3d230ed77f8, type: 3}
+  - {fileID: 70499188, guid: 9d641621ae349e641bc6e3d230ed77f8, type: 3}
+  - {fileID: -1888121860, guid: 9d641621ae349e641bc6e3d230ed77f8, type: 3}
+  - {fileID: -658079113, guid: faf5efb24c35f66419f33987d57de544, type: 3}
+  - {fileID: -1787782283, guid: faf5efb24c35f66419f33987d57de544, type: 3}
+  - {fileID: -1125859530, guid: faf5efb24c35f66419f33987d57de544, type: 3}
+  - {fileID: -1914872457, guid: faf5efb24c35f66419f33987d57de544, type: 3}
+  - {fileID: -1947488584, guid: 3ccec0de125a4914ca7910f06e8de387, type: 3}
+  - {fileID: -1169991392, guid: 3ccec0de125a4914ca7910f06e8de387, type: 3}
+  - {fileID: -90578621, guid: 3ccec0de125a4914ca7910f06e8de387, type: 3}
+  - {fileID: -1894151609, guid: 3ccec0de125a4914ca7910f06e8de387, type: 3}
+  - {fileID: -1457971206, guid: 3ccec0de125a4914ca7910f06e8de387, type: 3}
+  - {fileID: -336227995, guid: 3ccec0de125a4914ca7910f06e8de387, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Run_dust_8x38_0
+  - Run_dust_8x38_1
+  - Run_dust_8x38_2
+  - Run_dust_8x38_3
+  - Run_dust_8x38_4
+  - Run_dust_8x38_5
+  - SteamMan_steam_14x28_1
+  - SteamMan_steam_14x28_0
+  - SteamMan_steam_14x28_3
+  - SteamMan_steam_14x28_2
+  - Walk_dust_6x24_3
+  - Walk_dust_6x24_2
+  - Walk_dust_6x24_1
+  - Walk_dust_6x24_0
+  - Walk_dust_6x24_5
+  - Walk_dust_6x24_4
+  m_RenderDataMap: {}
+  m_Tag: 100-04-Effects
+  m_IsVariant: 0

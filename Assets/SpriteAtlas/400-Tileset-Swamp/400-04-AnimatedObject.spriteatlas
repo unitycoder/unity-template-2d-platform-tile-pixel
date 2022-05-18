@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 400-04-AnimatedObject
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 76761896dae55264491705badf564699, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -431635456, guid: 37876925b4a9d0e4885c65d65ba0c93c, type: 3}
+  - {fileID: 1800069764, guid: 37876925b4a9d0e4885c65d65ba0c93c, type: 3}
+  - {fileID: 695676035, guid: 37876925b4a9d0e4885c65d65ba0c93c, type: 3}
+  - {fileID: 1931338671, guid: 37876925b4a9d0e4885c65d65ba0c93c, type: 3}
+  - {fileID: -2008658838, guid: b7e537c8c94bbd4498ea9344e415cefc, type: 3}
+  - {fileID: -1485745493, guid: b7e537c8c94bbd4498ea9344e415cefc, type: 3}
+  - {fileID: 322611993, guid: b7e537c8c94bbd4498ea9344e415cefc, type: 3}
+  - {fileID: 1234036904, guid: b7e537c8c94bbd4498ea9344e415cefc, type: 3}
+  - {fileID: -957843722, guid: 064baa294ba1824488a92cb7c960fdee, type: 3}
+  - {fileID: 1848418009, guid: 064baa294ba1824488a92cb7c960fdee, type: 3}
+  - {fileID: -530554075, guid: 064baa294ba1824488a92cb7c960fdee, type: 3}
+  - {fileID: -1296243310, guid: 064baa294ba1824488a92cb7c960fdee, type: 3}
+  - {fileID: 2067312444, guid: c315105c7160dc6458bae22013837102, type: 3}
+  - {fileID: 171937243, guid: c315105c7160dc6458bae22013837102, type: 3}
+  - {fileID: -1231553488, guid: c315105c7160dc6458bae22013837102, type: 3}
+  - {fileID: 731906809, guid: c315105c7160dc6458bae22013837102, type: 3}
+  - {fileID: -187489245, guid: ac83abdd89ed84c46ba80177d6c5e5fd, type: 3}
+  - {fileID: 848801042, guid: ac83abdd89ed84c46ba80177d6c5e5fd, type: 3}
+  - {fileID: -1379480899, guid: ac83abdd89ed84c46ba80177d6c5e5fd, type: 3}
+  - {fileID: -1500357126, guid: ac83abdd89ed84c46ba80177d6c5e5fd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Key_1
+  - Key_0
+  - Key_3
+  - Key_2
+  - Flag_0
+  - Flag_1
+  - Flag_2
+  - Flag_3
+  - Coin_1
+  - Coin_0
+  - Coin_3
+  - Coin_2
+  - Rune_2
+  - Rune_3
+  - Rune_0
+  - Rune_1
+  - Chest_3
+  - Chest_2
+  - Chest_1
+  - Chest_0
+  m_RenderDataMap: {}
+  m_Tag: 400-04-AnimatedObject
+  m_IsVariant: 0

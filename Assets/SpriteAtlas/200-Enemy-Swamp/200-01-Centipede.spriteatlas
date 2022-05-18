@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 200-01-Centipede
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1fe1e3717cf0bca47a465a832351a19a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1688852469, guid: 3a86cba100d4d6041afc9d04d89c3d7f, type: 3}
+  - {fileID: 436160699, guid: 3a86cba100d4d6041afc9d04d89c3d7f, type: 3}
+  - {fileID: 948700843, guid: 3a86cba100d4d6041afc9d04d89c3d7f, type: 3}
+  - {fileID: -1524574493, guid: 3a86cba100d4d6041afc9d04d89c3d7f, type: 3}
+  - {fileID: 1393782754, guid: 3a86cba100d4d6041afc9d04d89c3d7f, type: 3}
+  - {fileID: -1011182831, guid: 3a86cba100d4d6041afc9d04d89c3d7f, type: 3}
+  - {fileID: -1450741615, guid: 1df46dc120928aa47b995e48207daa6c, type: 3}
+  - {fileID: -1928195211, guid: 1df46dc120928aa47b995e48207daa6c, type: 3}
+  - {fileID: -2047484862, guid: 1df46dc120928aa47b995e48207daa6c, type: 3}
+  - {fileID: 1715248323, guid: 1df46dc120928aa47b995e48207daa6c, type: 3}
+  - {fileID: -635509518, guid: 0fa23c9364c0c304a8b72907460d3508, type: 3}
+  - {fileID: 702829661, guid: 0fa23c9364c0c304a8b72907460d3508, type: 3}
+  - {fileID: -391965088, guid: 0fa23c9364c0c304a8b72907460d3508, type: 3}
+  - {fileID: -589045817, guid: 0fa23c9364c0c304a8b72907460d3508, type: 3}
+  - {fileID: -1810788936, guid: 549f6c059049dcd4b9ab0aaae8247b58, type: 3}
+  - {fileID: -1449044643, guid: 549f6c059049dcd4b9ab0aaae8247b58, type: 3}
+  - {fileID: -2056681401, guid: 549f6c059049dcd4b9ab0aaae8247b58, type: 3}
+  - {fileID: 1331739792, guid: 549f6c059049dcd4b9ab0aaae8247b58, type: 3}
+  - {fileID: 1232850741, guid: 549f6c059049dcd4b9ab0aaae8247b58, type: 3}
+  - {fileID: -965280654, guid: 549f6c059049dcd4b9ab0aaae8247b58, type: 3}
+  - {fileID: -1974104760, guid: 84e65865fc08ace4384cff32b81d4c42, type: 3}
+  - {fileID: -227968270, guid: 84e65865fc08ace4384cff32b81d4c42, type: 3}
+  - {fileID: -156114081, guid: 84e65865fc08ace4384cff32b81d4c42, type: 3}
+  - {fileID: -1774358195, guid: 84e65865fc08ace4384cff32b81d4c42, type: 3}
+  - {fileID: 21300000, guid: 64cc27fababc7ef459bc6a2835eeeb91, type: 3}
+  - {fileID: -439058190, guid: db62c93c81038c145802247509e6db05, type: 3}
+  - {fileID: 1732564631, guid: db62c93c81038c145802247509e6db05, type: 3}
+  - {fileID: -1685496439, guid: db62c93c81038c145802247509e6db05, type: 3}
+  - {fileID: -1735972310, guid: db62c93c81038c145802247509e6db05, type: 3}
+  - {fileID: -230896888, guid: 80cdbabc479cf3a4e923b8ec90ef6128, type: 3}
+  - {fileID: -871106519, guid: 80cdbabc479cf3a4e923b8ec90ef6128, type: 3}
+  - {fileID: -380454438, guid: 80cdbabc479cf3a4e923b8ec90ef6128, type: 3}
+  - {fileID: 1169585017, guid: 80cdbabc479cf3a4e923b8ec90ef6128, type: 3}
+  - {fileID: 1929634039, guid: 80cdbabc479cf3a4e923b8ec90ef6128, type: 3}
+  - {fileID: -614328929, guid: 80cdbabc479cf3a4e923b8ec90ef6128, type: 3}
+  - {fileID: -1211312823, guid: bc31503d705a8924bb7b89ed002e6e1a, type: 3}
+  - {fileID: -2049643536, guid: bc31503d705a8924bb7b89ed002e6e1a, type: 3}
+  - {fileID: -2058801852, guid: bc31503d705a8924bb7b89ed002e6e1a, type: 3}
+  - {fileID: 250163318, guid: bc31503d705a8924bb7b89ed002e6e1a, type: 3}
+  - {fileID: 516891997, guid: 4a4bfa1e76122a342bfa200a7f77be20, type: 3}
+  - {fileID: -828088321, guid: 4a4bfa1e76122a342bfa200a7f77be20, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Centipede_attack3_5
+  - Centipede_attack3_4
+  - Centipede_attack3_1
+  - Centipede_attack3_0
+  - Centipede_attack3_3
+  - Centipede_attack3_2
+  - Centipede_idle_2
+  - Centipede_idle_3
+  - Centipede_idle_0
+  - Centipede_idle_1
+  - Centipede_attack4_2
+  - Centipede_attack4_3
+  - Centipede_attack4_0
+  - Centipede_attack4_1
+  - Centipede_attack2_4
+  - Centipede_attack2_5
+  - Centipede_attack2_0
+  - Centipede_attack2_1
+  - Centipede_attack2_2
+  - Centipede_attack2_3
+  - Centipede_attack1_3
+  - Centipede_attack1_2
+  - Centipede_attack1_1
+  - Centipede_attack1_0
+  - Centipede
+  - Centipede_walk_3
+  - Centipede_walk_2
+  - Centipede_walk_1
+  - Centipede_walk_0
+  - Centipede_sneer_3
+  - Centipede_sneer_2
+  - Centipede_sneer_1
+  - Centipede_sneer_0
+  - Centipede_sneer_5
+  - Centipede_sneer_4
+  - Centipede_death_0
+  - Centipede_death_1
+  - Centipede_death_2
+  - Centipede_death_3
+  - Centipede_hurt_1
+  - Centipede_hurt_0
+  m_RenderDataMap: {}
+  m_Tag: 200-01-Centipede
+  m_IsVariant: 0

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 300-Explosion_circle_blue
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b48de6d9f6dfe7d4b87861cec4a958b9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d0a2f9d0934e748499f4c81dd63112d8, type: 3}
+  - {fileID: 21300000, guid: 21935401c446b3c42b6520dbdcdf927c, type: 3}
+  - {fileID: 21300000, guid: 45c76da3f044d774f86cf6b36e06aa80, type: 3}
+  - {fileID: 21300000, guid: 63f4e2f3da7d9424f957c764bbb1cb10, type: 3}
+  - {fileID: 21300000, guid: f55281165b1a408499f50515b4b064f3, type: 3}
+  - {fileID: 21300000, guid: 05a57a274a644c1428d5c3556fd07dd2, type: 3}
+  - {fileID: 21300000, guid: 25ecc179d70824d4493bcee82d4d30fd, type: 3}
+  - {fileID: 21300000, guid: 3cd7332ae7b4345468e5236d94ceecc1, type: 3}
+  - {fileID: 21300000, guid: e46ca1cd99d3a6d42858b8e4a4b61221, type: 3}
+  - {fileID: 21300000, guid: a59ff41fc15de40428133e2e6c226d08, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Explosion_blue_circle3
+  - Explosion_blue_circle2
+  - Explosion_blue_circle10
+  - Explosion_blue_circle8
+  - Explosion_blue_circle6
+  - Explosion_blue_circle9
+  - Explosion_blue_circle5
+  - Explosion_blue_circle4
+  - Explosion_blue_circle1
+  - Explosion_blue_circle7
+  m_RenderDataMap: {}
+  m_Tag: 300-Explosion_circle_blue
+  m_IsVariant: 0

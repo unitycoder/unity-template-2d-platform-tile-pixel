@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 100-02-GraveRobber
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 874e86985bf9d7b4fb664e483bb0f6bd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1372683360, guid: 00e03e30cea5a3b488f90bc6d055c0a3, type: 3}
+  - {fileID: 2059243329, guid: 00e03e30cea5a3b488f90bc6d055c0a3, type: 3}
+  - {fileID: -1976324255, guid: 00e03e30cea5a3b488f90bc6d055c0a3, type: 3}
+  - {fileID: -362305780, guid: 00e03e30cea5a3b488f90bc6d055c0a3, type: 3}
+  - {fileID: 1919588592, guid: 00e03e30cea5a3b488f90bc6d055c0a3, type: 3}
+  - {fileID: 1775607309, guid: 00e03e30cea5a3b488f90bc6d055c0a3, type: 3}
+  - {fileID: 1588022280, guid: 063591d029b427d4db72dcb632fcf1c4, type: 3}
+  - {fileID: 457482539, guid: 063591d029b427d4db72dcb632fcf1c4, type: 3}
+  - {fileID: 636478171, guid: 063591d029b427d4db72dcb632fcf1c4, type: 3}
+  - {fileID: 1908446182, guid: 063591d029b427d4db72dcb632fcf1c4, type: 3}
+  - {fileID: -1453032051, guid: 063591d029b427d4db72dcb632fcf1c4, type: 3}
+  - {fileID: -713077990, guid: 063591d029b427d4db72dcb632fcf1c4, type: 3}
+  - {fileID: -319051822, guid: 0b0d5401be0f6ea4fb8399a43efb1513, type: 3}
+  - {fileID: 1462722563, guid: 0b0d5401be0f6ea4fb8399a43efb1513, type: 3}
+  - {fileID: 1270790637, guid: 0b0d5401be0f6ea4fb8399a43efb1513, type: 3}
+  - {fileID: -934731069, guid: 0b0d5401be0f6ea4fb8399a43efb1513, type: 3}
+  - {fileID: -245011927, guid: 0b0d5401be0f6ea4fb8399a43efb1513, type: 3}
+  - {fileID: -1552010615, guid: 0b0d5401be0f6ea4fb8399a43efb1513, type: 3}
+  - {fileID: -525625584, guid: 5208cd3222ae95d42836480aa6fc27d8, type: 3}
+  - {fileID: 1033273608, guid: 5208cd3222ae95d42836480aa6fc27d8, type: 3}
+  - {fileID: -1880730535, guid: 5208cd3222ae95d42836480aa6fc27d8, type: 3}
+  - {fileID: 257474246, guid: 020049a4ac061214fa1c795574dbff48, type: 3}
+  - {fileID: -1112636050, guid: 020049a4ac061214fa1c795574dbff48, type: 3}
+  - {fileID: -376835347, guid: 020049a4ac061214fa1c795574dbff48, type: 3}
+  - {fileID: -1045756598, guid: 020049a4ac061214fa1c795574dbff48, type: 3}
+  - {fileID: -133951982, guid: 020049a4ac061214fa1c795574dbff48, type: 3}
+  - {fileID: -291088951, guid: 020049a4ac061214fa1c795574dbff48, type: 3}
+  - {fileID: -1683681195, guid: b07c2255161033c4e8c2643228cd35b3, type: 3}
+  - {fileID: -1238657190, guid: b07c2255161033c4e8c2643228cd35b3, type: 3}
+  - {fileID: 408976779, guid: b07c2255161033c4e8c2643228cd35b3, type: 3}
+  - {fileID: 2007864841, guid: b07c2255161033c4e8c2643228cd35b3, type: 3}
+  - {fileID: 212810508, guid: b07c2255161033c4e8c2643228cd35b3, type: 3}
+  - {fileID: -387825826, guid: b07c2255161033c4e8c2643228cd35b3, type: 3}
+  - {fileID: 1580669112, guid: 37758ca569d3e7c42a411106f7abcae6, type: 3}
+  - {fileID: -560761075, guid: 37758ca569d3e7c42a411106f7abcae6, type: 3}
+  - {fileID: 1560242415, guid: 37758ca569d3e7c42a411106f7abcae6, type: 3}
+  - {fileID: 169457213, guid: 37758ca569d3e7c42a411106f7abcae6, type: 3}
+  - {fileID: 2012764147, guid: 1f5e3fa8c9b522540bb98e87de2ebfd6, type: 3}
+  - {fileID: 1221328896, guid: 1f5e3fa8c9b522540bb98e87de2ebfd6, type: 3}
+  - {fileID: 877840889, guid: 1f5e3fa8c9b522540bb98e87de2ebfd6, type: 3}
+  - {fileID: -1768752690, guid: 1f5e3fa8c9b522540bb98e87de2ebfd6, type: 3}
+  - {fileID: 1557500456, guid: 1f5e3fa8c9b522540bb98e87de2ebfd6, type: 3}
+  - {fileID: -1208186062, guid: 1f5e3fa8c9b522540bb98e87de2ebfd6, type: 3}
+  - {fileID: -1255493849, guid: 205bdc59e31b57941993948cb0fa4a52, type: 3}
+  - {fileID: 927020211, guid: 205bdc59e31b57941993948cb0fa4a52, type: 3}
+  - {fileID: 1429956555, guid: 205bdc59e31b57941993948cb0fa4a52, type: 3}
+  - {fileID: 2009787782, guid: 205bdc59e31b57941993948cb0fa4a52, type: 3}
+  - {fileID: -663730873, guid: 205bdc59e31b57941993948cb0fa4a52, type: 3}
+  - {fileID: 62772085, guid: 205bdc59e31b57941993948cb0fa4a52, type: 3}
+  - {fileID: -903383012, guid: 2af10a9a576ba894cbcac061304037ee, type: 3}
+  - {fileID: 412527474, guid: 2af10a9a576ba894cbcac061304037ee, type: 3}
+  - {fileID: -1736997046, guid: 2af10a9a576ba894cbcac061304037ee, type: 3}
+  - {fileID: 1730765250, guid: 2af10a9a576ba894cbcac061304037ee, type: 3}
+  - {fileID: 942445246, guid: 2af10a9a576ba894cbcac061304037ee, type: 3}
+  - {fileID: 703508052, guid: 2af10a9a576ba894cbcac061304037ee, type: 3}
+  - {fileID: 21300000, guid: d7e3ad0d5044d7e46ac4c724c11da335, type: 3}
+  - {fileID: 385228184, guid: 977bbb5f1db609340a839db9a42a6aa9, type: 3}
+  - {fileID: -2107685758, guid: 977bbb5f1db609340a839db9a42a6aa9, type: 3}
+  - {fileID: -702876933, guid: 977bbb5f1db609340a839db9a42a6aa9, type: 3}
+  - {fileID: 1955906787, guid: 977bbb5f1db609340a839db9a42a6aa9, type: 3}
+  - {fileID: 540857483, guid: 977bbb5f1db609340a839db9a42a6aa9, type: 3}
+  - {fileID: 1158835785, guid: 977bbb5f1db609340a839db9a42a6aa9, type: 3}
+  - {fileID: -1459502450, guid: 7dd328ef7236961479bb896920e7b3cb, type: 3}
+  - {fileID: 68033443, guid: 7dd328ef7236961479bb896920e7b3cb, type: 3}
+  - {fileID: 1177056169, guid: 7dd328ef7236961479bb896920e7b3cb, type: 3}
+  - {fileID: 165922437, guid: 7dd328ef7236961479bb896920e7b3cb, type: 3}
+  - {fileID: -1663241828, guid: 7dd328ef7236961479bb896920e7b3cb, type: 3}
+  - {fileID: 135734548, guid: 7dd328ef7236961479bb896920e7b3cb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GraveRobber_attack2_4
+  - GraveRobber_attack2_5
+  - GraveRobber_attack2_0
+  - GraveRobber_attack2_1
+  - GraveRobber_attack2_2
+  - GraveRobber_attack2_3
+  - GraveRobber_jump_0
+  - GraveRobber_jump_1
+  - GraveRobber_jump_2
+  - GraveRobber_jump_3
+  - GraveRobber_jump_4
+  - GraveRobber_jump_5
+  - GraveRobber_walk_3
+  - GraveRobber_walk_2
+  - GraveRobber_walk_1
+  - GraveRobber_walk_0
+  - GraveRobber_walk_5
+  - GraveRobber_walk_4
+  - GraveRobber_hurt_2
+  - GraveRobber_hurt_1
+  - GraveRobber_hurt_0
+  - GraveRobber_push_0
+  - GraveRobber_push_1
+  - GraveRobber_push_2
+  - GraveRobber_push_3
+  - GraveRobber_push_4
+  - GraveRobber_push_5
+  - GraveRobber_run_1
+  - GraveRobber_run_0
+  - GraveRobber_run_3
+  - GraveRobber_run_2
+  - GraveRobber_run_5
+  - GraveRobber_run_4
+  - GraveRobber_idle_2
+  - GraveRobber_idle_3
+  - GraveRobber_idle_0
+  - GraveRobber_idle_1
+  - GraveRobber_attack1_3
+  - GraveRobber_attack1_2
+  - GraveRobber_attack1_1
+  - GraveRobber_attack1_0
+  - GraveRobber_attack1_5
+  - GraveRobber_attack1_4
+  - GraveRobber_climb_1
+  - GraveRobber_climb_0
+  - GraveRobber_climb_3
+  - GraveRobber_climb_2
+  - GraveRobber_climb_5
+  - GraveRobber_climb_4
+  - GraveRobber_craft_0
+  - GraveRobber_craft_1
+  - GraveRobber_craft_2
+  - GraveRobber_craft_3
+  - GraveRobber_craft_4
+  - GraveRobber_craft_5
+  - GraveRobber
+  - GraveRobber_death_0
+  - GraveRobber_death_1
+  - GraveRobber_death_2
+  - GraveRobber_death_3
+  - GraveRobber_death_4
+  - GraveRobber_death_5
+  - GraveRobber_attack3_5
+  - GraveRobber_attack3_4
+  - GraveRobber_attack3_1
+  - GraveRobber_attack3_0
+  - GraveRobber_attack3_3
+  - GraveRobber_attack3_2
+  m_RenderDataMap: {}
+  m_Tag: 100-02-GraveRobber
+  m_IsVariant: 0
