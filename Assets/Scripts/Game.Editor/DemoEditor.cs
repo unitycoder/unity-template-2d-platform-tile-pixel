@@ -1,10 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+using UnityEditor;
 
 namespace Game.Editor
 {
-    public class DemoEditor : MonoBehaviour
+    public class DemoEditor : EditorWindow
     {
     }
 }

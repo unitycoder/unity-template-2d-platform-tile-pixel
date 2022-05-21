@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 500-00-9-Slice
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3964480ff539a534e968a89fb1036054, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b7329130d3085a6489ea4f0037751788, type: 3}
+  - {fileID: 21300000, guid: b7c854522ed74af40aaf213bbcd973c8, type: 3}
+  - {fileID: 21300000, guid: 7a879f62d36b2f44991d694218ab4ae6, type: 3}
+  - {fileID: 21300000, guid: 3d71eed2849e6ba478bb15efd15ce0d1, type: 3}
+  - {fileID: 21300000, guid: de4e2e738a231314b9634f5786963802, type: 3}
+  - {fileID: 21300000, guid: 429979932e1127340aaf5b2022a449ea, type: 3}
+  - {fileID: 21300000, guid: a039eeb31730f3441a339dd0e1cf318d, type: 3}
+  - {fileID: 21300000, guid: e7d37c64a92593748b7694512cb8de92, type: 3}
+  - {fileID: 21300000, guid: 0176f89407d076347af335fb37a798b1, type: 3}
+  - {fileID: 21300000, guid: 7e5a66b4611e2a0468b7b5b7d6b143bc, type: 3}
+  - {fileID: 21300000, guid: b402d0f4b195ab34796e70ede81a2968, type: 3}
+  - {fileID: 21300000, guid: 89f60bf40c818a24b93fb542e4d83851, type: 3}
+  - {fileID: 21300000, guid: a499e925a66c31947845107f32dce8aa, type: 3}
+  - {fileID: 21300000, guid: 5060e045819057f48a0799649d7dbf30, type: 3}
+  - {fileID: 21300000, guid: bb1190f68f945fd4dbfaf12c79b579d6, type: 3}
+  - {fileID: 21300000, guid: 3c073538ecab5314e8fa03c541d7b37e, type: 3}
+  - {fileID: 21300000, guid: 2ae289483ca9787489c888865bdbd628, type: 3}
+  - {fileID: 21300000, guid: f85e2f883298485438e1d945b02d4e69, type: 3}
+  - {fileID: 21300000, guid: 3ba71d9809920c14e87dac590b3822f1, type: 3}
+  - {fileID: 21300000, guid: 406a24c9be8c87a43b810296b70f9bc8, type: 3}
+  - {fileID: 21300000, guid: ac1ec72ac995195409a1857947a0d0e2, type: 3}
+  - {fileID: 21300000, guid: d292ea4a073dfeb49ab78b854715afa1, type: 3}
+  - {fileID: 21300000, guid: aa435c9a4f0c06a48a5e811a66fc3e72, type: 3}
+  - {fileID: 21300000, guid: 5061f2cb6edfff747800a84afbd44c8f, type: 3}
+  - {fileID: 21300000, guid: aaf8d6cb02811cc4e9a362b1c78d0735, type: 3}
+  - {fileID: 21300000, guid: 4cd4095c7a869d14fac5178f99742f9b, type: 3}
+  - {fileID: 21300000, guid: ffbcd5ec7ab18924c9ee8f2f1953306a, type: 3}
+  - {fileID: 21300000, guid: a3ecf88ee857f3449884bf4f8de2e2eb, type: 3}
+  - {fileID: 21300000, guid: 5496349eabb38184b820529e82125a71, type: 3}
+  - {fileID: 21300000, guid: f2f096eed52998749a44683f1b222bbc, type: 3}
+  - {fileID: 21300000, guid: bc9b1d2f1bc1afc4d86b7885f39ff9a5, type: 3}
+  - {fileID: 21300000, guid: d1cedb3f799e9eb419fde706fc9afe80, type: 3}
+  - {fileID: 21300000, guid: 0acda74f316778d4f9a7f0ab097b8846, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - brown_pressed
+  - green_pressed
+  - blue
+  - brown
+  - grey_pressed
+  - grey_pressed
+  - green_pressed
+  - red
+  - tan_pressed
+  - list
+  - yellow_pressed
+  - white_pressed
+  - tan
+  - yellow
+  - green
+  - white_inlay
+  - red_pressed
+  - brown_inlay
+  - red_pressed
+  - red
+  - space
+  - yellow
+  - blue_pressed
+  - green
+  - tan_inlay
+  - grey
+  - yellow_pressed
+  - blue
+  - grey
+  - blue_pressed
+  - grey_inlay
+  - white
+  - space_inlay
+  m_RenderDataMap: {}
+  m_Tag: 500-00-9-Slice
+  m_IsVariant: 0

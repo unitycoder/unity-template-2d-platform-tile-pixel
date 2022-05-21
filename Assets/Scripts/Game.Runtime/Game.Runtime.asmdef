@@ -5,7 +5,9 @@
         "Unity.Burst",
         "Unity.Mathematics",
         "Unity.TextMeshPro",
-        "UnityEngine.UI"
+        "UnityEngine.UI",
+        "Unity.2D.Common.Runtime",
+        "Unity.2D.Animation.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

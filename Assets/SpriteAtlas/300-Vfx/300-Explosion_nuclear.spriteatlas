@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 300-Explosion_nuclear
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 14935b4f951d0ce4e8d52a6e85abc785, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c9c3a72001ee70b4aaa5446d0ab0222a, type: 3}
+  - {fileID: 21300000, guid: a9cec951cebe2c543b73508028b73281, type: 3}
+  - {fileID: 21300000, guid: 1c5da1816090c464a881ce1bed55ff29, type: 3}
+  - {fileID: 21300000, guid: b96f96810b3292144bc825e5aa9201f0, type: 3}
+  - {fileID: 21300000, guid: f3dcc56294be9874080af6e0fe56eae2, type: 3}
+  - {fileID: 21300000, guid: 56539395f17dcb640b46d3965cff27aa, type: 3}
+  - {fileID: 21300000, guid: c334fc954dfffcd4b9502b3abc065e95, type: 3}
+  - {fileID: 21300000, guid: 36377519958cbbf48bcee319d5e4bfb1, type: 3}
+  - {fileID: 21300000, guid: 4325000abd47c6a4e8353cc9ed56a55b, type: 3}
+  - {fileID: 21300000, guid: b5be473e7839eb549b48cc453748c5fa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Nuclear_explosion10
+  - Nuclear_explosion6
+  - Nuclear_explosion5
+  - Nuclear_explosion8
+  - Nuclear_explosion7
+  - Nuclear_explosion1
+  - Nuclear_explosion2
+  - Nuclear_explosion3
+  - Nuclear_explosion9
+  - Nuclear_explosion4
+  m_RenderDataMap: {}
+  m_Tag: 300-Explosion_nuclear
+  m_IsVariant: 0

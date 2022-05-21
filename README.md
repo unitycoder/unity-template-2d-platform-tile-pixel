@@ -6,6 +6,7 @@
 * 2D URP
 * Tilemap
 * Pixel art
+* Frame-based animation
 * Unity 2021.3.2f1
 
 ## Credits
@@ -29,7 +30,7 @@ https://craftpix.net/freebies/11-free-pixel-art-explosion-sprites
 * PixelLocale v.1.4  
 https://fontstruct.com/fontstructions/show/1765530/pixellocale-v-1-4
 
-### Unity Asset Store
+### Kenney
 
-* Pixel FX - Fire  
-https://assetstore.unity.com/packages/vfx/pixel-fx-fire-221146
+* Pixel UI Pack  
+https://www.kenney.nl/assets/pixel-ui-pack
